@@ -1,0 +1,17 @@
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\bin\Debug\atem-aux-control.exe.config
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\bin\Debug\atem-aux-control.exe
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\bin\Debug\atem-aux-control.pdb
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\bin\Debug\Sanford.Multimedia.Midi.dll
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\bin\Debug\Sanford.Multimedia.Midi.pdb
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\bin\Debug\Sanford.Multimedia.Midi.xml
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\obj\Debug\atem-aux-control.csprojAssemblyReference.cache
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\obj\Debug\Interop.BMDSwitcherAPI.dll
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\obj\Debug\atem-aux-control.csproj.ResolveComReference.cache
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\obj\Debug\midi_aux_control.MainForm.resources
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\obj\Debug\atem_aux_control.Properties.Resources.resources
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\obj\Debug\midi_aux_control.ShortcutButton.resources
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\obj\Debug\atem-aux-control.csproj.GenerateResource.cache
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\obj\Debug\atem-aux-control.csproj.CoreCompileInputs.cache
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\obj\Debug\atem-aux-control.csproj.CopyComplete
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\obj\Debug\atem-aux-control.exe
+D:\Users\Boldi\Documents\Projects\atem-aux-control\atem-aux-control\obj\Debug\atem-aux-control.pdb
